@@ -1,0 +1,6 @@
+[submodule "1014_server"]
+	path = 1014_server
+	url = https://github.com/ygy7084/1014_server.git
+[submodule "1014_static"]
+	path = 1014_static
+	url = https://github.com/ygy7084/1014_static.git
