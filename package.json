@@ -1,0 +1,17 @@
+{
+  "name": "1014",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  	"build" : "node index.js",
+  	"server" : "cd 1014_server&&npm run bs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "fs-extra": "^4.0.2",
+    "inquirer": "^3.3.0"
+  }
+}
