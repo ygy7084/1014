@@ -4,3 +4,5 @@
 [submodule "1014_static"]
 	path = 1014_static
 	url = https://github.com/ygy7084/1014_static.git
+[submodules "1014_server"]
+	branch = master
